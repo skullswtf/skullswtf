@@ -1,7 +1,7 @@
 💀 We are @skullswtf #SWTF
 The hardest 3D HF Skulls NFT Collection on Solana
 
-[![869.png](https://i.postimg.cc/brGp5Ltn/869.png)](https://postimg.cc/1VZknGMR)
+[![final-collection-extract.png](https://i.postimg.cc/g2yd1xng/final-collection-extract.png)](https://postimg.cc/VJN3CL9t)
 
 Total NFT Collection: 6000
 Mint Status: SOLD OUT
@@ -22,7 +22,11 @@ Build Process:
 11. Release the Rarities (was step 8.1 before, which was a fair, but not a smart move)
 12. Continue building a solid Roadmap that delivers on its promises...
 
-[![final-collection-extract.png](https://i.postimg.cc/g2yd1xng/final-collection-extract.png)](https://postimg.cc/VJN3CL9t)
+[![869.png](https://i.postimg.cc/brGp5Ltn/869.png)](https://postimg.cc/1VZknGMR)
+
+Looks Rare
+
+[![Rarity-Ranking.png](https://i.postimg.cc/vBfpxjf3/Rarity-Ranking.png)](https://postimg.cc/TL2kZtkD)
 
 <!---
 skullswtf/skullswtf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
